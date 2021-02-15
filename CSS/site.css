@@ -13,7 +13,6 @@
 	margin-left : 20px;
 	margin-right : 20px;
 	margin-top : 0px;
-	background-color : #d7d5d5;
 	padding: 15px;
 	}
 #Pied_de_Page
@@ -21,8 +20,6 @@
 	background-color : #000000;
 	min-width : 730px;
 	min-height : 50px;
-	margin-left : 20px;
-	margin-right : 20px;
 	border : thin black solid; 
 	color : white;
 	text-align:center;
@@ -37,12 +34,13 @@
 body 
 	{
 	margin : auto;
-	background-color : #192f49;
+	background-color : white;
 	}
 ul
 	{
 	font-family : Colibri, Arial;
 	list-style: square;
+	font-size: 20px;
 	}
 p
 	{
