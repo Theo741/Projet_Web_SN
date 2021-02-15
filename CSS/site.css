@@ -1,6 +1,6 @@
 #entete
 	{
-	background-color : #000000;
+	background-color :black;
 	height : 145px;
 	border : thin black solid;
 	min-height : 195px;
@@ -33,14 +33,7 @@
 	}
 body 
 	{
-	margin : auto;
 	background-color : white;
-	}
-ul
-	{
-	font-family : Colibri, Arial;
-	list-style: square;
-	font-size: 20px;
 	}
 p
 	{
