@@ -121,5 +121,16 @@ a:hover
 
 .boutonMenu{
 	height: 50px;
+
 	width: 13.75%;
+}
+#myCarousel
+{
+	margin-left: 50px;
+	margin-right: 650px;
+}
+#navigation{
+	text-decoration: underline;
+	font-size: 18px;
+
 }
