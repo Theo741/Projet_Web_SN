@@ -1,19 +1,17 @@
 #entete
 	{
-	background-color :black;
-	height : 145px;
-	border : thin black solid;
-	min-height : 195px;
-	min-width : 700px
+	background-color: white;
+	height : 70px;
+	width : 100%;
 	}	
 #corps
 	{
-	min-height : 650px;
+	min-height : 700px;
 	min-width : 700px;
 	margin-left : 20px;
 	margin-right : 20px;
 	margin-top : 0px;
-	padding: 15px;
+	padding: 25px;
 	}
 #Pied_de_Page
 	{
@@ -50,15 +48,6 @@ th,td
 	{
 	text-align: center;
 	border: thin solid black;
-	}
-.gauche
-	{
-	float : left;
-	}
-.droite
-	{
-	position : absolute;
-	margin-left : 100px;
 	}
 .textepiedpage
 	{
@@ -134,3 +123,32 @@ a:hover
 	font-size: 18px;
 
 }
+.sn{
+	margin-left: 20px;
+	line-height: 95px;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'Teko', sans-serif;
+
+}
+.bts{
+	text-align: center;
+	margin-right: 20px;
+	font-size: 28px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	line-height: 115px;
+	
+	
+}
+#gauche{
+	width: 30%;
+	float: left;
+	height : 70px;
+}
+#droite{
+	width: 45%;
+	margin-left:55%;
+	height : 70px;
+	
+}
+
