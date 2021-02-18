@@ -129,27 +129,42 @@ a:hover
 	text-align: left;
 	font-size: 40px;
 	font-family: 'Teko', sans-serif;
-
+	width: 28%;
+}
+.sn:hover{
+	color: blue;
 }
 .bts{
 	text-align: center;
 	margin-right: 20px;
 	font-size: 28px;
 	font-family: 'Open Sans Condensed', sans-serif;
-	line-height: 115px;
+	line-height: 110px;
 	
 	
 }
 #gauche{
-	width: 30%;
+	width: 12%;
 	float: left;
 	height : 70px;
 }
 #droite{
 	width: 45%;
 	margin-left:55%;
-	height : 70px;
 	
 }
+.sn2{
+	line-height: 95px;
+	font-size: 40px;
+	font-family: 'Teko', sans-serif;
+	width: 60%;
+	height: 65px;
+	color: blue;
+	
+}
+#gauche2{
+	width: 40%;
+	float: left;
 
+}
 
