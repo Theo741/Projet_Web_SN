@@ -129,10 +129,10 @@ a:hover
 	text-align: left;
 	font-size: 40px;
 	font-family: 'Teko', sans-serif;
-	width: 28%;
+	width: 50px;
 }
 .sn:hover{
-	color: blue;
+	color:blue;
 }
 .bts{
 	text-align: center;
@@ -144,27 +144,30 @@ a:hover
 	
 }
 #gauche{
-	width: 12%;
+	width: 150px;
 	float: left;
 	height : 70px;
 }
 #droite{
-	width: 45%;
-	margin-left:55%;
+	width: 550px;
+	float: center;
+	height : 70px;
+	margin-left: 700px;
 	
 }
 .sn2{
 	line-height: 95px;
 	font-size: 40px;
 	font-family: 'Teko', sans-serif;
-	width: 60%;
 	height: 65px;
 	color: blue;
 	
 }
 #gauche2{
-	width: 40%;
+	width: 155px;
 	float: left;
+	height : 70px;
+
 
 }
 
