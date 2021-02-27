@@ -1,28 +1,23 @@
 #entete
 	{
-	background-color : #000000;
-	height : 145px;
-	border : thin black solid;
-	min-height : 195px;
-	min-width : 700px
+	background-color: white;
+	height : 70px;
+	width : 100%;
 	}	
 #corps
 	{
-	min-height : 650px;
+	min-height : 700px;
 	min-width : 700px;
 	margin-left : 20px;
 	margin-right : 20px;
 	margin-top : 0px;
-	background-color : #d7d5d5;
-	padding: 15px;
+	padding: 25px;
 	}
 #Pied_de_Page
 	{
 	background-color : #000000;
 	min-width : 730px;
 	min-height : 50px;
-	margin-left : 20px;
-	margin-right : 20px;
 	border : thin black solid; 
 	color : white;
 	text-align:center;
@@ -36,18 +31,13 @@
 	}
 body 
 	{
-	margin : auto;
-	background-color : #192f49;
-	}
-ul
-	{
-	font-family : Colibri, Arial;
-	list-style: square;
+	background-color : white;
 	}
 p
 	{
 	font-family : Colibri, Arial;
 	margin-left : 20px;
+	font-size: 20px;
 	}
 table
 	{
@@ -58,15 +48,6 @@ th,td
 	{
 	text-align: center;
 	border: thin solid black;
-	}
-.gauche
-	{
-	float : left;
-	}
-.droite
-	{
-	position : absolute;
-	margin-left : 100px;
 	}
 .textepiedpage
 	{
@@ -99,7 +80,11 @@ th,td
 	}
 .white
 	{
-	background-color: #a9b4b5;
+	background-color: #E8765E;
+	}
+	.white2
+	{
+	background-color: #973f2d;
 	}
 .centre
 	{
@@ -129,5 +114,64 @@ a:hover
 
 .boutonMenu{
 	height: 50px;
+
 	width: 13.75%;
 }
+.carousel2
+{
+	margin-left: 50px;
+	margin-right: 650px;
+}
+#navigation{
+	text-decoration: underline;
+	font-size: 18px;
+
+}
+.sn{
+	margin-left: 20px;
+	line-height: 95px;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'Teko', sans-serif;
+	width: 50px;
+}
+.sn:hover{
+	color:blue;
+}
+.bts{
+	text-align: center;
+	margin-right: 20px;
+	font-size: 28px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	line-height: 110px;
+	
+	
+}
+#gauche{
+	width: 150px;
+	float: left;
+	height : 70px;
+}
+#droite{
+	width: 550px;
+	float: center;
+	height : 70px;
+	margin-left: 700px;
+	
+}
+.sn2{
+	line-height: 95px;
+	font-size: 40px;
+	font-family: 'Teko', sans-serif;
+	height: 65px;
+	color: blue;
+	
+}
+#gauche2{
+	width: 155px;
+	float: left;
+	height : 70px;
+
+
+}
+
