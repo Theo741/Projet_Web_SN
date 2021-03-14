@@ -92,7 +92,10 @@ th,td
 	}
 .images
 	{
-	Text-align: center;
+	text-align:justify;
+	}
+.image2{
+	text-align: end;
 	}
 .ecart
 	{
@@ -174,4 +177,9 @@ a:hover
 
 
 }
-
+li{
+	font-size: 20px;
+}
+h2{
+	text-decoration: underline;
+}
