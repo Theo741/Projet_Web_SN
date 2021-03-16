@@ -80,11 +80,11 @@ th,td
 	}
 .white
 	{
-	background-color: #E8765E;
+	background-color: #B4D7FF;
 	}
 	.white2
 	{
-	background-color: #973f2d;
+	background-color: #73B4FF;
 	}
 .centre
 	{
@@ -131,7 +131,7 @@ a:hover
 
 }
 .sn{
-	margin-left: 20px;
+	margin-left: 10px;
 	line-height: 95px;
 	text-align: left;
 	font-size: 40px;
@@ -168,6 +168,7 @@ a:hover
 	font-family: 'Teko', sans-serif;
 	height: 65px;
 	color: blue;
+	margin-left: 30px;
 	
 }
 #gauche2{
@@ -183,3 +184,21 @@ li{
 h2{
 	text-decoration: underline;
 }
+
+.col-sm-3{
+	height: 65px;
+	background-color: indianred;
+}
+.col-sm-1{
+	height: 65px;
+	background-color: indigo;
+}
+.col-sm-8{
+	height: 65px;
+	background-color: red;
+}
+.col-sm-12{
+	margin-top: 30px;
+	background-color: green;
+}
+
