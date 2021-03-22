@@ -80,11 +80,11 @@ th,td
 	}
 .white
 	{
-	background-color: #E8765E;
+	background-color: #B4D7FF;
 	}
 	.white2
 	{
-	background-color: #973f2d;
+	background-color: #73B4FF;
 	}
 .centre
 	{
@@ -130,52 +130,34 @@ a:hover
 	font-size: 18px;
 
 }
+
 .sn{
-	margin-left: 20px;
-	line-height: 95px;
-	text-align: left;
+	line-height: 65px;
 	font-size: 40px;
 	font-family: 'Teko', sans-serif;
-	width: 50px;
+	text-align: center;
+	margin-left: 90px;
 }
+
 .sn:hover{
 	color:blue;
 }
+
 .bts{
-	text-align: center;
+	text-align: right;
 	margin-right: 20px;
 	font-size: 28px;
 	font-family: 'Open Sans Condensed', sans-serif;
-	line-height: 110px;
-	
-	
-}
-#gauche{
-	width: 150px;
-	float: left;
-	height : 70px;
-}
-#droite{
-	width: 550px;
-	float: center;
-	height : 70px;
-	margin-left: 700px;
-	
+	line-height: 55px;	
 }
 .sn2{
-	line-height: 95px;
+	line-height: 65px;
 	font-size: 40px;
 	font-family: 'Teko', sans-serif;
 	height: 65px;
 	color: blue;
+	margin-right: 30px;
 	
-}
-#gauche2{
-	width: 155px;
-	float: left;
-	height : 70px;
-
-
 }
 li{
 	font-size: 20px;
@@ -183,3 +165,11 @@ li{
 h2{
 	text-decoration: underline;
 }
+
+.col-sm-2{
+	height: 50px;
+}
+.col-sm-11{
+	height: 40px;
+}
+
